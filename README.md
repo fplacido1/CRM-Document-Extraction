@@ -58,7 +58,7 @@ Captured using **mobile phones**, each image contains **unstructured profile dat
 ---
 
 <h2 align="center">⚠️ Important Submission Requirement ⚠️</h2>
-<h3>✅ Submit Before the 4-Hour Deadline</h3>
+<h3>✅ Submit Before the 14h00 Deadline</h3>
 
 📁 Submit a **.zip folder** containing:
 - Your **Google Colab notebook** with all cells run and outputs shown
